@@ -1,0 +1,24 @@
+body {
+    background: rgb(39, 38, 38);
+}
+
+h1 {
+    color: white;
+    background: rgb(153, 16, 34);
+    padding: 10px;
+}
+
+#head {
+    padding: 10px;
+    background: #76a729;
+    font-size: 25px;
+    display: inline-block;
+    
+}
+
+.card {
+    color: rgb(199, 158, 23);
+    padding: 10px;
+    font-size: 16px;
+}
+
